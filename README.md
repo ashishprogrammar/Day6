@@ -1,10 +1,26 @@
 # 🧼 Leetcode 203 - Remove Linked List Elements
+# 🧼 Leetcode 202 - Happy Number
 
 ## 📝 Problem Statement
 
 Given the `head` of a singly linked list and an integer `val`, remove all the nodes of the linked list that have `Node.val == val`, and return the new head.
 
 > [Leetcode Link 🔗](https://leetcode.com/problems/remove-linked-list-elements/)
+
+---
+
+## 📝 Problem Statement
+
+# Happy Number Checker
+
+This project determines whether a given number is a **Happy Number**.
+
+A **Happy Number** is defined as a number that eventually reaches `1` when replaced by the sum of the squares of each digit repeatedly.  
+If it loops endlessly in a cycle that does not include `1`, then the number is **not happy**.
+
+---
+
+> [Leetcode Link 🔗](https://leetcode.com/problems/happy-number/))
 
 ---
 
